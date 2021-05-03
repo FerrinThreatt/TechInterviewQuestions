@@ -1,4 +1,0 @@
-def reverse(int [] array){
-
-
-}
